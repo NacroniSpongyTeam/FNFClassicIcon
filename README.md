@@ -4,7 +4,7 @@ Hello. I am going to show you how to import the iconGrid mod I made for Friday N
 
 ## Table of Contents
 [Information](#information),
-[How to import](#how-to-import)
+[How to Import](#how-to-import)
 
 ## Information
 The purpose of this mod is to change the icons to 0.2.4 or lower "when the icon update never existed".

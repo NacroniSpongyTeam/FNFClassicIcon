@@ -3,7 +3,7 @@ Hello. I am going to show you how to import the iconGrid mod I made for Friday N
 
 
 ## Table of Contents
-[Information](#information)
+[Information](#information),
 [How to import](#how-to-import)
 
 ## Information
